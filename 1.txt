@@ -1,0 +1,60 @@
+There are hundreds of programming languages in use today. How can you 
+know which one to learn first? How do you know which ones are the bes 
+t for your IT field of choice? Well, I can't answer that question for 
+you. But why not start by learning one of the top 10 most popular one 
+s? That way you will always be able to get a job in the IT industry. L
+ earning a programming language is not easy, but it can be very reward
+i ng. You will have a lot of questions at first. Just remember to get 
+he lp when you need it! You can find out the answer to almost everythi
+ng on Google nowadays.... so there is no excuse for failure. Also reme
+mb er that it takes years to become an expert programmer. Don't expect
+ t o get good overnight. Just keep learning something new every day an
+d eventually you will be competent enough to get the job done ;) This 
+a rticle covers the top 10 most popular programming languages as ranke
+d by Tiobe.com in June 2009. I have added some general reviews and com
+me nts about each language they listed. Remember these are my own pers
+ona l opinions. Other IT professionals might have different opinions. 
+1. Java. Java uses a compiler, and is an object-oriented language rele
+ase d in 1995 by Sun Microsystems. Java is the number one programming 
+lang uage today for many reasons. First, it is a well-organized langua
+ge wi th a strong library of reusable software components. Second, pro
+grams written in Java can run on many different computer architectures
+ and o perating systems because of the use of the JVM ( Java virtual m
+achine ). Sometimes this is referred to as code portability or even WO
+RA ( wr ite once, run anywhere ). Third, Java is the language most lik
+ely to b e taught in university computer science classes. A lot of com
+puter sci ence theory books written in the past decade use Java in the
+ code exam ples. So learning Java syntax is a good idea even if you ne
+ver actuall y code in it. Java Strengths: WORA, popularity. Java Weakn
+esses: Slowe r than natively compiled languages 2. C. C is a compiled,
+ procedural language developed in 1972 by Dennis Ritchie for use in th
+e UNIX opera ting system. Although designed to be portable in nature, 
+C programs mu st be specifically compiled for computers with different
+ architectures and operating systems. This helps make them lightning f
+ast. Although C is a relatively old language, it is still widely used 
+for system pro gramming, writing other programming languages, and in e
+mbedded systems . Strengths: Speed. Weaknesses: Memory management can 
+be difficult to master 3. C++. C++ is a compiled, multi-paradigm langu
+age written as an update to C in 1979 by Bjarne Stroustrup. It attempt
+s to be backwar ds-compatible with C and brings object-orientation, wh
+ich helps in lar ger projects. Despite it's age, C++ is used to create
+ a wide array of applications from games to office suites. Strengths: 
+Speed. Weaknesses : C++ is older and considered more clumsy than newer
+ object-oriented l anguages such as Java or C#. 4. PHP. PHP uses a run
+-time interpreter, and is a multi-paradigm language originally develop
+ed in 1996 by Rasm us Lerdorf to create dynamic web pages. At first it
+ was not even a re al programming language, but over time it eventuall
+y grew into a fully featured object-oriented programming language. Alt
+hough PHP has been much criticized in the past for being a bit sloppy 
+and insecure, it's been pretty good since version 5 came out in 2004. 
+It's hard to argue with success. Today, PHP is the most popular langua
+ge used to write w eb applications. Even English 4 IT, the program you
+ are currently usin g, is written in PHP ;) Strengths: Web programming
+, good documentation . Weaknesses: Inconsistent syntax, too many ways 
+to do the same thing, a history of bizarre security decisions 5. VB ( 
+or Visual Basic ). V isual Basic is an interpreted, multi-paradigm lan
+guage developed by Mi crosoft Corporation for the Windows platform. It
+ has been evolving ov er the years and is seen as a direct descendant 
+of Microsoft's old BAS IC from the 1970's. Visual Basic is a good lang
+uage for scripting Wind ows applications that do not need the power an
+d speed of C#. Strengths : None. Weaknesses: Only runs in Windows
